@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 38e1929b4b9db9a18581d717e3ef779325cae66c gas terus syg <44364658-tokoneh466@users.noreply.replit.com> 1751119638 +0000	branch: Created from origin/main
+38e1929b4b9db9a18581d717e3ef779325cae66c 6c3e0a4dd07ec0bfeecdd137bc219d32c2dd684a tokoneh466 <44364658-tokoneh466@users.noreply.replit.com> 1751120110 +0000	commit: Improve admin panel and user experience with enhanced data handling
+6c3e0a4dd07ec0bfeecdd137bc219d32c2dd684a eb57aa01ba009817c43672a9527ef21d92cf9e79 tokoneh466 <44364658-tokoneh466@users.noreply.replit.com> 1751120472 +0000	commit: Allow admins to edit and view detailed info, including past achievements
+eb57aa01ba009817c43672a9527ef21d92cf9e79 0feda4a9758cd5c803615b3a60f8831abfa08fb5 tokoneh466 <44364658-tokoneh466@users.noreply.replit.com> 1751120733 +0000	commit: Improve display of UKM images from Google Drive in the admin panel
+0feda4a9758cd5c803615b3a60f8831abfa08fb5 a603427ba11929bcdacc9118a61175f0180c73df tokoneh466 <44364658-tokoneh466@users.noreply.replit.com> 1751121222 +0000	commit: Show UKM data correctly in portfolio cards and fix the UKM sorting
+a603427ba11929bcdacc9118a61175f0180c73df 01cd278d7164c1408e9b385af77045bc5667ae8a gas terus syg <44364658-tokoneh466@users.noreply.replit.com> 1751163471 +0000	commit: udh berhasill 96%
